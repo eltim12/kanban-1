@@ -25,5 +25,5 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Access Demo at
+https://kanban-1205.firebaseapp.com/
